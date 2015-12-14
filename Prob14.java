@@ -42,5 +42,24 @@ public class Prob14{
 
     conex(1);
     System.out.print(count);
+
+
+[cenas.main.asokfmeribnewrimguwrnghibwrsjgfbwjhrskdnvrsbndvhujws
+rsgver
+sfverwsv
+wr
+vgw
+r
+vwrs
+v
+wrsvetrfvw
+rsv
+wref
+ber
+fb
+werbwr
+bwr]
+
+
   }
 }
